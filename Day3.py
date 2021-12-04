@@ -1,4 +1,4 @@
-f = open("day3_input.txt", "r")
+f = open("resources/day3_input.txt", "r")
 lines = f.read().splitlines()
 f.close()
 
